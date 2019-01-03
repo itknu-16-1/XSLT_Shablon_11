@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>	 
+
+<books>
+	<book id="1">
+		<title>Буратино</title>
+		<author>Он же</author>
+		<price>0.0</price>
+		<count>0</count>
+	</book>
+
+	<book id="2">
+		<title>Мальвина</title>
+		<author>Она же</author>
+		<price>10.0</price>
+		<count>5</count>
+	</book>
+
+</books>
